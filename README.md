@@ -7,7 +7,7 @@ I'm building this repo to track my practice and understand Flask concepts step b
 
 ## 📆 Daily Progress
 
-| Day | Topic Covered | Description |
+| Sr.no | Topic | Description |
 |-----|----------------|-------------|
 | 1 | Flask Setup & Hello World | Installed Flask, created first app |
 | 2 | Routing | Learned about `@app.route()` and URL patterns |
